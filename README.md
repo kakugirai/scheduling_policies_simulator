@@ -1,5 +1,7 @@
 # Scheduling Policies Simulator
 
+![Travis](https://travis-ci.org/kakugirai/scheduling_policies_simulator.svg?branch=master)
+
 Here is a simple example:
 
 ```bash
